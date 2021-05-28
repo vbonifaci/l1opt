@@ -1,13 +1,13 @@
 = MATLAB implementation of Laplacian-based gradient methods for
 L1-Norm Minimization
 
-A set of MATLAB modules for the L1-Norm Minimization problem. In particular, the algorithms from the following paper are included: 
+A set of MATLAB modules for the L1-Norm Minimization problem. In particular, the algorithms from the following paper are provided: 
 
 * [B19] V. Bonifaci. https://link.springer.com/article/10.1007%2Fs10589-021-00270-x[A Laplacian Approach to ℓ1-Norm Minimization.] _Computational Optimization and Applications_, 2021. 
 
 Author: Vincenzo Bonifaci, Università Roma Tre, Italy <vincenzo.bonifaci@uniroma3.it>
 
-These files are to be used with the https://people.eecs.berkeley.edu/~yang/software/l1benchmark/[*l1benchmark*] MATLAB package: 
+The benchmarks are based on the https://people.eecs.berkeley.edu/~yang/software/l1benchmark/[*l1benchmark*] MATLAB package: 
 
 https://people.eecs.berkeley.edu/~yang/software/l1benchmark/
 
