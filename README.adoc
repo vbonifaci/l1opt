@@ -1,5 +1,4 @@
-= MATLAB implementation of Laplacian-based gradient methods for
-L1-Norm Minimization
+= MATLAB implementation of Laplacian-based gradient methods for L1-Norm Minimization
 
 A set of MATLAB modules for the L1-Norm Minimization problem. In particular, the algorithms from the following paper are provided: 
 
