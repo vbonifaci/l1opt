@@ -20,13 +20,13 @@ https://arxiv.org/abs/1007.3753[Fast L1-Minimization Algorithms for Robust Face 
 The following MATLAB R2020b modules are included in this collection: 
 
 * compare_noise_free.m
-	-- a sample driver that tests the methods from [B19] against the other methods in the l1benchmark suite. This file should replace the file with the same name in the l1benchmark distribution. Please note that the revised version measures the difference in objective function value instead of the Euclidean distance in order to benchmark the algorithms, hence some of the original code had to be slightly adapted. 
+	-- a sample driver that tests the methods from [B21] against the other methods in the l1benchmark suite. This file should replace the file with the same name in the l1benchmark distribution. Please note that the revised version measures the difference in objective function value instead of the Euclidean distance in order to benchmark the algorithms, hence some of the original code had to be slightly adapted. 
 * SolvePGS.m
-	-- a MATLAB implementation of the Primal Gradient Scheme from [B19]
+	-- a MATLAB implementation of the Primal Gradient Scheme from [B21]
 * SolveAGS.m
-	-- a MATLAB implementation of the Accelerated Gradient Scheme from [B19]
+	-- a MATLAB implementation of the Accelerated Gradient Scheme from [B21]
 * SolveAGS2.m
-	-- a MATLAB implementation of the revised Accelerated Gradient Scheme from [B19]
+	-- a MATLAB implementation of the revised Accelerated Gradient Scheme from [B21]
 * SolveHomotopy.m
 	-- MATLAB implementation of the Homotopy method from [YGZ+10], adapted to the new measure
 * SolvePALM.m
