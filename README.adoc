@@ -2,7 +2,7 @@
 
 A set of MATLAB modules for the L1-Norm Minimization problem. In particular, the algorithms from the following paper are provided: 
 
-* [B19] V. Bonifaci. https://link.springer.com/article/10.1007%2Fs10589-021-00270-x[A Laplacian Approach to ℓ1-Norm Minimization.] _Computational Optimization and Applications_, 2021. 
+* [B21] V. Bonifaci. https://link.springer.com/article/10.1007%2Fs10589-021-00270-x[A Laplacian Approach to ℓ1-Norm Minimization.] _Computational Optimization and Applications_, 79: 441–469, 2021. 
 
 Author: Vincenzo Bonifaci, Università Roma Tre, Italy. 
 
